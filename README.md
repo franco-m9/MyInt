@@ -1,2 +1,2 @@
 # MyInt
-Allows for very long integers that can't originally be stored
+Allows for very long integers and calculations that can't originally be stored
